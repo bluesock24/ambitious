@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "project-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluesock24/ambitious.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Tajson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluesock24/ambitious/issues"
+  },
+  "homepage": "https://github.com/bluesock24/ambitious#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
